@@ -1,0 +1,3 @@
+[submodule "marden_SE"]
+	path = marden_SE
+	url = https://github.com/pherneaspherb/marden_SE.git
